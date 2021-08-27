@@ -1,0 +1,31 @@
+#logo-container{
+    display: flex;
+    align-items:center;
+    justify-content:center
+}
+
+#logo-container>img {
+    max-width: 100%;
+    border: 2px solid black;
+}
+#h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+button{
+    background-color: red;
+    border: 3;
+    border-radius: 3px;
+    color: snow;
+    cursor: pointer;
+    font-size:24px;
+}
+button:hover{
+    background-color: royalblue; 
+}
+table{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
